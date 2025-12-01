@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "愛は勝つ",
+  "base_artist": "Kan",
+  "createdAt": "2025-12-01T20:52:21.267876Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛は勝つ",
+      "artist": "Kan",
+      "has_synced": true,
+      "path": "select/01_愛は勝つ_Kan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛は勝つ",
+      "artist": "KAN",
+      "has_synced": false,
+      "path": "select/02_愛は勝つ_KAN.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛は勝つ",
+      "artist": "KAN",
+      "has_synced": true,
+      "path": "select/03_愛は勝つ_KAN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛は勝つ - Aiwa Katsu",
+      "artist": "Kan",
+      "has_synced": false,
+      "path": "select/04_愛は勝つ_-_Aiwa_Katsu_Kan.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "愛は勝つ",
+      "artist": "KAN",
+      "has_synced": true,
+      "path": "select/05_愛は勝つ_KAN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "愛は勝つ",
+      "artist": "KAN",
+      "has_synced": true,
+      "path": "select/06_愛は勝つ_KAN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛は勝つ (Originally Performed by KAN)",
+      "artist": "コロムビアオルゴール",
+      "has_synced": false,
+      "path": "select/pl_01_愛は勝つ_(Originally_Performed_by_KAN)_コロムビアオルゴール.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "愛は勝つ",
+      "artist": "コロムビアオルゴール",
+      "has_synced": false,
+      "path": "select/pl_02_愛は勝つ_コロムビアオルゴール.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "愛は勝つ",
+      "artist": "コロムビアオルゴール",
+      "has_synced": false,
+      "path": "select/pl_03_愛は勝つ_コロムビアオルゴール.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "愛は勝つ",
+      "artist": "コロムビアオルゴール",
+      "has_synced": false,
+      "path": "select/pl_04_愛は勝つ_コロムビアオルゴール.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "愛は勝つ",
+      "artist": "コロムビアオルゴール",
+      "has_synced": false,
+      "path": "select/pl_05_愛は勝つ_コロムビアオルゴール.txt"
+    }
+  ]
+}
